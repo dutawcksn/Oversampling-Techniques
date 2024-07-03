@@ -1,4 +1,4 @@
-# Oversampling-Techniques
+# Oversampling-Techniques with XGBoost Classifier
 
 This reasearch aims to test the effectiveness of oversampling techniques implemented through the AIDS Clinical Trials Group Study 175 dataset. This dataset can be accessed through [Kaggle](https://www.kaggle.com/datasets/tanshihjen/aids-clinical-trials)
 
